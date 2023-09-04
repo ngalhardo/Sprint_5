@@ -1,0 +1,6 @@
+natashagalhardo
+
+arn:aws:s3:::natashagalhardo
+
+http://natashagalhardo.s3-website-us-east-1.amazonaws.com
+
